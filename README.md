@@ -14,7 +14,7 @@ images/
   anim_<name>_dark.webm       English, dark theme
   anim_<name>_es.webm         Spanish, light theme
   anim_<name>_es_dark.webm    Spanish, dark theme
-  anim_<name>_poster.jpg      poster frame, one per variant
+  anim_<name>_poster.webp     poster frame, one per variant
   anim_<name>.gif             GIF edition of the two English variants, for README previews
 ```
 
